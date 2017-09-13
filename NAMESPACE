@@ -1,0 +1,7 @@
+export(LSH_Gaussian)
+import(flexclust)
+import(lsa)
+import(igraph)
+import(stringdist)
+import(reshape2)
+importFrom("stats", "rnorm", "runif")
